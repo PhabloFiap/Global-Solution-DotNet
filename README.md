@@ -173,7 +173,3 @@ Para treinar ou atualizar o modelo, siga os passos:
 - **Swagger**
 
 ---
-
-## **Download**
-
-Clique [aqui para baixar este README](sandbox:/mnt/data/README.md) e adicioná-lo diretamente ao repositório no GitHub.
